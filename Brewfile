@@ -22,5 +22,5 @@ cask 'opera'
 cask 'iterm2'
 cask 'sketch'
 cask 'slack'
-cask ‘visual-studio-code’
+cask 'visual-studio-code'
 
