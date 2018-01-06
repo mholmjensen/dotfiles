@@ -4,7 +4,6 @@ tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'homebrew/dupes'
 
-# Install ZSH
 brew 'awscli'
 brew 'coreutils'
 brew 'git'
@@ -23,3 +22,5 @@ cask 'opera'
 cask 'iterm2'
 cask 'sketch'
 cask 'slack'
+cask ‘visual-studio-code’
+
