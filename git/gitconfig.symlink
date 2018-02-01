@@ -12,6 +12,7 @@
         ui = true
 [core]
         excludesfile = ~/.gitignore
+        editor = subl -n -w
 [help]
         autocorrect = 1
 [push]
@@ -23,4 +24,4 @@
 
 [user]
 	name = Martin Holm Jensen
-	email = martinholmj@gmail.com
+    email = martin.holm@leoilab.com
