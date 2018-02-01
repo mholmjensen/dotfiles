@@ -12,13 +12,6 @@
         ui = true
 [core]
         excludesfile = ~/.gitignore
-        editor = vim
-[apply]
-        whitespace = nowarn
-[mergetool]
-        keepBackup = false
-[difftool]
-        prompt = false
 [help]
         autocorrect = 1
 [push]
@@ -29,5 +22,5 @@
         default = simple
 
 [user]
-	name = Ragnar-H
-	email = ragnarhardarson90@gmail.com
+	name = Martin Holm Jensen
+	email = martinholmj@gmail.com

@@ -1,4 +1,4 @@
-# ragnar forks holmans dotfiles
+# martin forks ragnar's forks holmans dotfiles
 
 ❤️ cloned from https://github.com/holman/dotfiles/fork
 
@@ -41,7 +41,7 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/Ragnar-H/dotfiles.git ~/.dotfiles
+git clone https://github.com/mholmjensen/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```

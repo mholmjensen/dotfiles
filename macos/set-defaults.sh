@@ -81,8 +81,8 @@ defaults write com.apple.dock autohide -bool true
 chflags nohidden ~/Library
 
 # Top left screen corner → Screen Saver
-defaults write com.apple.dock wvous-tl-corner -int 5
-defaults write com.apple.dock wvous-tl-modifier -int 0
+#defaults write com.apple.dock wvous-tl-corner -int 5
+#defaults write com.apple.dock wvous-tl-modifier -int 0
 
 # Only use UTF-8 in Terminal.app
 defaults write com.apple.terminal StringEncodings -array 4
